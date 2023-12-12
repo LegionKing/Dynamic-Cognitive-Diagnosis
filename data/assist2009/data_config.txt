@@ -1,0 +1,1 @@
+{'student_n': 3079, 'exer_n': 17671, 'knowledge_n': 123, 'skill_comb_n': 149, 'min_log': 15, 'max_log': 200, 'stu_cnt_train': 1971}
